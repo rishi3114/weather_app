@@ -6,7 +6,7 @@ import os
 import geocoder
 
 
-api_key = '5597e9850c26a219a20422af2315097d'
+api_key = 'your_api'
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
 
 
